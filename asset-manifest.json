@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rpdeniro/static/css/main.0680d271.css",
+    "main.js": "/rpdeniro/static/js/main.0fbddff9.js",
+    "static/media/Sweet Nostalgia.png": "/rpdeniro/static/media/Sweet Nostalgia.53339bb01dd9da4f5f05.png",
+    "static/media/Dreamy Beach.jpg": "/rpdeniro/static/media/Dreamy Beach.fa67a3e82c92d41dd4f8.jpg",
+    "static/media/EcommerceBackendPic.png": "/rpdeniro/static/media/EcommerceBackendPic.8cfdbd8d8110fc32b22a.png",
+    "static/media/Deniro1.jpeg": "/rpdeniro/static/media/Deniro1.2cc369fc1e415aca911e.jpeg",
+    "static/media/Weather-Dashboard -ss.png": "/rpdeniro/static/media/Weather-Dashboard -ss.473468270e7fc2ded466.png",
+    "index.html": "/rpdeniro/index.html",
+    "main.0680d271.css.map": "/rpdeniro/static/css/main.0680d271.css.map",
+    "main.0fbddff9.js.map": "/rpdeniro/static/js/main.0fbddff9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0680d271.css",
+    "static/js/main.0fbddff9.js"
+  ]
+}
