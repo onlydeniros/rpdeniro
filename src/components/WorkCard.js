@@ -15,7 +15,6 @@ const WorkCard = () => {
           <h2 className="project-title">Sweet Nostalgia</h2>
           <div className="pro-details">
             <p>
-              {" "}
               Created a full-stack web application with a group of developers
               using a database to store user’s information when subscribing to
               our website used Sequelize & MYSQL to create the associations
