@@ -40,8 +40,7 @@ function Experience() {
         </h3>
         <h4 className="vertical-timeline-element-subtitle">Jacksonville, FL</h4>
         <p className="pColor">
-          Men's Basketball Team 2018-2019, Graduated with AA in Computer
-          Science.
+          Men's Basketball Team 2018-2019, Graduated with AA in Information Technology.
         </p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
@@ -77,7 +76,7 @@ function Experience() {
           University of Central Florida
         </h3>
         <h4 className="vertical-timeline-element-subtitle">Orlando, FL</h4>
-        <p className="pColor">Pursuing my Bachelors in Computer Science.</p>
+        <p className="pColor">Pursuing my Bachelors in Infromation Technology.</p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
