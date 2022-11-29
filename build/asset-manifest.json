@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rpdeniro/static/css/main.f6f1e8d7.css",
-    "main.js": "/rpdeniro/static/js/main.b3ae16f2.js",
+    "main.js": "/rpdeniro/static/js/main.9b6c1540.js",
     "static/media/Sweet Nostalgia.png": "/rpdeniro/static/media/Sweet Nostalgia.53339bb01dd9da4f5f05.png",
     "static/media/red_blue_water.jpg": "/rpdeniro/static/media/red_blue_water.9fc90995970e2a8d28e7.jpg",
     "static/media/DeVise.png": "/rpdeniro/static/media/DeVise.84b52f58d9aa805650d0.png",
@@ -10,10 +10,10 @@
     "static/media/Weather-Dashboard -ss.png": "/rpdeniro/static/media/Weather-Dashboard -ss.473468270e7fc2ded466.png",
     "index.html": "/rpdeniro/index.html",
     "main.f6f1e8d7.css.map": "/rpdeniro/static/css/main.f6f1e8d7.css.map",
-    "main.b3ae16f2.js.map": "/rpdeniro/static/js/main.b3ae16f2.js.map"
+    "main.9b6c1540.js.map": "/rpdeniro/static/js/main.9b6c1540.js.map"
   },
   "entrypoints": [
     "static/css/main.f6f1e8d7.css",
-    "static/js/main.b3ae16f2.js"
+    "static/js/main.9b6c1540.js"
   ]
 }
