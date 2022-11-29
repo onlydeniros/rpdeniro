@@ -4,7 +4,6 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import SchoolIcon from "@material-ui/icons/School";
-import WorkIcon from "@material-ui/icons/Work";
 import "./ExperienceStyles.css";
 
 function Experience() {
@@ -77,35 +76,6 @@ function Experience() {
         </h3>
         <h4 className="vertical-timeline-element-subtitle">Orlando, FL</h4>
         <p className="pColor">Pursuing my Bachelors in Infromation Technology.</p>
-      </VerticalTimelineElement>
-      <VerticalTimelineElement
-        className="vertical-timeline-element--work"
-        contentStyle={{ background: "#73bbdb", color: "#fff" }}
-        contentArrowStyle={{ borderRight: "7px solid  #73bbdb" }}
-        date="2019 - present"
-        iconStyle={{ background: "#73bbdb", color: "black" }}
-        icon={<WorkIcon />}
-      >
-        <h3 className="vertical-timeline-element-title">
-          United Parcel Service (UPS)
-        </h3>
-        <h4 className="vertical-timeline-element-subtitle">
-          Jacksonville to Orlando, FL
-        </h4>
-        <p className="pColor">
-          • Lead a team of 10-15 employees, responsivities included replacing
-          trailers for replacement while documenting destinations and volume of
-          each trailer while holding my team accountable of their work.
-          <br />
-          •Conducted regular performance evaluations/meetings to ensure
-          employees’ performance is in line with company goals. • Establish and
-          promote a positive, team-oriented work environment emphasizing
-          employee involvement, proactive communication, and continual
-          improvement on all levels.
-          <br />
-          •Respond to constantly changing circumstances with the ability to make
-          demanding decisions in a fast-paced environment.
-        </p>
       </VerticalTimelineElement>
     </VerticalTimeline>
   );
