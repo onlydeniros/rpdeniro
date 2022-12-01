@@ -35,6 +35,9 @@ const AboutContent = () => {
           <Link to="/contact">
             <button className="btn">Contact</button>
           </Link>
+          <div >
+          <h1 className="center">Digital Portfolio Progress</h1>
+          </div>
         </div>
 
         <div className="right">

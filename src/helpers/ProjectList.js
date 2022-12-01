@@ -2,6 +2,11 @@ import pro1 from "../assets/images/Sweet Nostalgia.png";
 import pro2 from "../assets/images/Weather-Dashboard -ss.png";
 import pro3 from "../assets/images/EcommerceBackendPic.png";
 import pro4 from "../assets/images/DeVise.png";
+import pro5 from "../assets/images/coverletterss.png";
+import pro6 from "../assets/images/resume.png";
+import pro7 from "../assets/images/interviewprep.png";
+import pro8 from "../assets/images/instructions.png";
+import pro9 from "../assets/images/proposalss.png";
 
 export const ProjectList = [
   {
@@ -33,7 +38,34 @@ export const ProjectList = [
     image: pro4,
     github: "https://github.com/Brainybrian316/DEVise",
     view: "https://devise-collaboration-platform.herokuapp.com/",
-    info:"Devise is a simple, open-source, web-based application for collaboration, creating, and connecting with people. The goal is to create a platform for people to connect with each other and work on projects together. The application also features an idea bin where users can find ideas and templates to help them create their own projects. User can post project built from templates or ideas they have created themselves for others to use or reference. Finally, users are able to connect with other users who are looking to build a project or receive help with a project they are currently working on. This app is a full-stack application that uses MERN stack. The application is built on the Express.js framework and uses the MongoDB database. Finally, the application is deployed on Heroku. We are currently working on a new version of the application that will be realeased in the future.",
+    info: "Devise is a simple, open-source, web-based application for collaboration, creating, and connecting with people. The goal is to create a platform for people to connect with each other and work on projects together. The application also features an idea bin where users can find ideas and templates to help them create their own projects. User can post project built from templates or ideas they have created themselves for others to use or reference. Finally, users are able to connect with other users who are looking to build a project or receive help with a project they are currently working on. This app is a full-stack application that uses MERN stack. The application is built on the Express.js framework and uses the MongoDB database. Finally, the application is deployed on Heroku. We are currently working on a new version of the application that will be realeased in the future.",
     skills: "Skills: React, MonogDB, Node.js, Express.js, MUI",
+  },
+  {
+    name: "Cover Letter",
+    image: pro5,
+    view: "https://docs.google.com/document/d/1oAmrzOdAR8p3A5hVFud2Cp_kORs6Ob4x/edit?usp=sharing&ouid=106128385963472784841&rtpof=true&sd=true",
+  },
+  {
+    name: "Resume",
+    image: pro6,
+    view: "https://docs.google.com/document/d/1ld2VYvr2ja0mypnHijR2dix_WQBJgMo9/edit?usp=sharing&ouid=106128385963472784841&rtpof=true&sd=true",
+  },
+  {
+    name: "Interview Prep",
+    image: pro7,
+    view: "https://www.youtube.com/watch?v=puR1vhzHp5E",
+  },
+  {
+    name: "Instruction Paper",
+    image: pro8,
+    view: "https://docs.google.com/document/d/1hvPG1wyYxOIGRCTkG8C_uAdPQbDv9zcR/edit?usp=sharing&ouid=106128385963472784841&rtpof=true&sd=true",
+    info: "For this assignment I created a Visual Studio Code keybinding shortcut manual for Window users. This manual will help programmers and developers increase productivity and work flow, as well go in depth about the most common keybinding commands such as file management, basic editing files, search and replacing code, and creating your own keybinding shortcuts.",
+  },
+  {
+    name: "Proposal Paper",
+    image: pro9,
+    view: "https://docs.google.com/document/d/1wQyjk-9Hqael_xZ3hAxe1HyZ2Irv9tZN/edit?usp=sharing&ouid=106128385963472784841&rtpof=true&sd=true",
+    info: "For this assignment I created a proposal paper about enhancing communcation with people across the globe. Adressing the advantages and disadvantages of the internet and how the internet affects people's social, academic, and professional life.",
   },
 ];
