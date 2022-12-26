@@ -64,7 +64,7 @@ function Footer() {
             >
               <FaTwitter
                 size={30}
-                style={{ color: "#73bbdb", marginRight: "1rem" }}
+                style={{ color: "#ca5c4b", marginRight: "1rem" }}
               />
             </a>
             <a

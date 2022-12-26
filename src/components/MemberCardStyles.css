@@ -16,17 +16,21 @@ h1 {
   grid-gap: 40px;
 }
 
+.titleService{
+  padding-top: 75px;
+}
+
 .card {
-  border: 1px solid #eee;
+  border: 1px solid  #ca5c4b;
   color: #eee;
   text-align: center;
   padding: 1.5rem;
   border-radius: 4px;
-  box-shadow: 12px 5px 25px rgba(69, 68, 68, 0.695);
+  box-shadow: 4px 5px 5px #ca5c4b;
 }
 
 .card:hover {
-  background-color: rgba(69, 68, 68, 0.695);
+  background-color: rgba(15, 14, 14, 0.695);
 }
 
 .card h3 {
@@ -60,7 +64,7 @@ h1 {
   background-color: rgb(16, 16, 15);
 }
 .btn:hover {
-  background-color: #73bbdb;
+  background-color: #ca5c4b;
 }
 
 @media screen and (max-width: 740px) {

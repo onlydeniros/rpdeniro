@@ -6,7 +6,7 @@ import React from "react";
 function MemberCard() {
   return (
     <>
-    <h1>Improved Website = Improved Sales</h1>
+    <h1 className="titleService">WEB DESIGN SERVICES</h1>
     <div className="pricing">
       <div className="card-container">
         <div className="card">

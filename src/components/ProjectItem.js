@@ -2,6 +2,8 @@ import React from "react";
 import "../components/ProjectItemStyles.css";
 import { useNavigate } from "react-router-dom";
 
+
+
 const ProjectItem = ({ image, name, id }) => {
   const navigate = useNavigate();
   return (

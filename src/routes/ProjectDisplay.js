@@ -23,7 +23,7 @@ function ProjectDisplay() {
         <GitHubIcon />
       </a>
         <ReplyIcon />
-       <span>Back to Projects</span>
+  
       </div>
     </div>
   );
