@@ -4,7 +4,6 @@ import {
   FaHome,
   FaLinkedin,
   FaMailBulk,
-  FaPhone,
   FaTwitter,
   FaFacebook,
 } from "react-icons/fa";
@@ -20,15 +19,6 @@ function Footer() {
               <p>Orlando, FL</p>
             </div>
           </div>
-          <div className="phone">
-            <h4>
-              <FaPhone
-                size={20}
-                style={{ color: "#fff", marginRight: "2rem" }}
-              />
-              (904)521-1760
-            </h4>
-          </div>
           <div className="email">
             <h4>
               <FaMailBulk
@@ -42,10 +32,7 @@ function Footer() {
 
         <div className="right">
           <h4>Bio</h4>
-          <p>
-            Your destiny is moving at the speed of your obedience. Reach for the
-            stars, aim for the moon.💫
-          </p>
+          <p>Your destiny is moving at the speed of your obedience.</p>
           <div className="social">
             <a
               href={"https://www.facebook.com/deniro.dumas.7/"}
