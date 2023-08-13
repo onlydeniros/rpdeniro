@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/rpdeniro/static/css/main.992b8ee8.css",
-    "main.js": "/rpdeniro/static/js/main.72b7c703.js",
+    "main.js": "/rpdeniro/static/js/main.8441cf04.js",
     "static/media/prodeniro.png": "/rpdeniro/static/media/prodeniro.678ee9820450c4b4e46b.png",
-    "static/media/redforest.jpg": "/rpdeniro/static/media/redforest.1d2d7e7399a8e2b5d4e5.jpg",
     "static/media/Sweet Nostalgia.png": "/rpdeniro/static/media/Sweet Nostalgia.53339bb01dd9da4f5f05.png",
+    "static/media/LaptopCode.jpg": "/rpdeniro/static/media/LaptopCode.f1af7a744a7cb349715a.jpg",
     "static/media/DeVise.png": "/rpdeniro/static/media/DeVise.84b52f58d9aa805650d0.png",
     "static/media/EcommerceBackendPic.png": "/rpdeniro/static/media/EcommerceBackendPic.8cfdbd8d8110fc32b22a.png",
     "static/media/Weather-Dashboard -ss.png": "/rpdeniro/static/media/Weather-Dashboard -ss.473468270e7fc2ded466.png",
     "index.html": "/rpdeniro/index.html",
     "main.992b8ee8.css.map": "/rpdeniro/static/css/main.992b8ee8.css.map",
-    "main.72b7c703.js.map": "/rpdeniro/static/js/main.72b7c703.js.map"
+    "main.8441cf04.js.map": "/rpdeniro/static/js/main.8441cf04.js.map"
   },
   "entrypoints": [
     "static/css/main.992b8ee8.css",
-    "static/js/main.72b7c703.js"
+    "static/js/main.8441cf04.js"
   ]
 }
