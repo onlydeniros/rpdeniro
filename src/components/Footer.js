@@ -29,6 +29,7 @@ function Footer() {
             </h4>
           </div>
         </div>
+        
 
         <div className="right">
           <h4>Bio</h4>
@@ -65,9 +66,11 @@ function Footer() {
               />
             </a>
           </div>
+          <p>(This website was built using React)</p>
         </div>
       </div>
     </div>
+    
   );
 }
 

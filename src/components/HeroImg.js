@@ -1,5 +1,5 @@
 import "./HeroImgStyles.css";
-import IntroHero from "../assets/images/redforest.jpg"
+import IntroHero from "../assets/images/LaptopCode.jpg"
 import React from 'react'
 
 const HeroImg = () => {
@@ -9,7 +9,7 @@ const HeroImg = () => {
         <img className="intro-img" src={IntroHero} alt="beach sunset"/>
         <div className="content">
         <p>Welcome to my page</p>
-        <h1>Software Engineer</h1>
+        <h1>Web Developer</h1>
         <div>
         
         </div>
